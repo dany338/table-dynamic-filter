@@ -1,5 +1,5 @@
 ### Visualice Production
-See [Project Production](https://github.com/dany338/table-dynamic-filter/dist/index.html).
+See [Project Production](http://www.confuturolaboral.com/table-dynamic-filter/).
 
 # table-dynamic-filter
 
