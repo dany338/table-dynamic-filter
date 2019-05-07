@@ -1,0 +1,185 @@
+[
+  {
+    "name": "Andres Gomez",
+    "status": "Solved",
+    "subject": "No puedo ingresar a mi cuenta",
+    "body": "Hola necesito ayuda para recuperar la contraseña de mi cuenta, ¿me pueden ayudar?",
+    "priority": "High",
+    "csat": 100,
+    "tags": [
+      "account",
+      "reset_password"
+    ],
+    "metrics": [
+      {
+        "id": "first_resolution_time_in_minutes",
+        "value": 40
+      },
+      {
+        "id": "first_reply_time_in_minutes",
+        "value": 20
+      },
+      {
+        "id": "full_resolution_time_in_minutes",
+        "value": 300
+      }
+    ]
+  },
+  {
+    "name": "Ezequiel Salatino",
+    "status": "Open",
+    "subject": "Yo necesito ayuda, no puedo acceder a mi cuenta en playvox",
+    "body": "Hola necesito ayuda para ingresar de mi cuenta, ¿me pueden ayudar?",
+    "priority": "Medium",
+    "csat": 80,
+    "tags": [
+      "account",
+      "reset_password"
+    ],
+    "metrics": [
+      {
+        "id": "first_resolution_time_in_minutes",
+        "value": 30
+      },
+      {
+        "id": "first_reply_time_in_minutes",
+        "value": 10
+      },
+      {
+        "id": "full_resolution_time_in_minutes",
+        "value": 200
+      }
+    ]
+  },
+  {
+    "name": "Emiliano Cosenza",
+    "status": "Open",
+    "subject": "Requiero validación de mis datos",
+    "body": "Hola necesito ayuda para verificar mi email, ¿me pueden ayudar?",
+    "priority": "Medium",
+    "csat": 60,
+    "tags": [
+      "account",
+      "reset_password",
+      "validated"
+    ],
+    "metrics": [
+      {
+        "id": "first_resolution_time_in_minutes",
+        "value": 30
+      },
+      {
+        "id": "first_reply_time_in_minutes",
+        "value": 10
+      },
+      {
+        "id": "full_resolution_time_in_minutes",
+        "value": 200
+      }
+    ]
+  },
+  {
+    "name": "Pedro Grajales",
+    "status": "Pending",
+    "subject": "No puedo ingresar a mi cuenta",
+    "body": "Hola necesito ayuda para recuperar la contraseña de mi cuenta, ¿me pueden ayudar?",
+    "priority": "Low",
+    "csat": 100,
+    "tags": [
+      "account",
+      "reset_password"
+    ],
+    "metrics": [
+      {
+        "id": "first_resolution_time_in_minutes",
+        "value": 30
+      },
+      {
+        "id": "first_reply_time_in_minutes",
+        "value": 10
+      },
+      {
+        "id": "full_resolution_time_in_minutes",
+        "value": 200
+      }
+    ]
+  },
+  {
+    "name": "Tatiana Mendieta",
+    "status": "Pending",
+    "subject": "No puedo ingresar en mi perfil",
+    "body": "Hola necesito ayuda para cargar imagen de perfil en mi cuenta, ¿me pueden ayudar?",
+    "priority": "Low",
+    "csat": 100,
+    "tags": [
+      "account",
+      "reset_password"
+    ],
+    "metrics": [
+      {
+        "id": "first_resolution_time_in_minutes",
+        "value": 15
+      },
+      {
+        "id": "first_reply_time_in_minutes",
+        "value": 5
+      },
+      {
+        "id": "full_resolution_time_in_minutes",
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Pedro Grajales",
+    "status": "Hold",
+    "subject": "Acceso al modulo de solicitudes",
+    "body": "Hola necesito ayuda para visualizar el modulo de solicitudes, ¿me pueden ayudar?",
+    "priority": "Low",
+    "csat": 100,
+    "tags": [
+      "account",
+      "reset_password"
+    ],
+    "metrics": [
+      {
+        "id": "first_resolution_time_in_minutes",
+        "value": 15
+      },
+      {
+        "id": "first_reply_time_in_minutes",
+        "value": 5
+      },
+      {
+        "id": "full_resolution_time_in_minutes",
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Santiago Mejia",
+    "status": "Closed",
+    "subject": "Error en solicitud de ingreso",
+    "body": "Hola necesito ayuda para ingresar en la sección de registro, ¿me pueden ayudar?",
+    "priority": "Low",
+    "csat": 100,
+    "tags": [
+      "account",
+      "reset_password"
+    ],
+    "metrics": [
+      {
+        "id": "first_resolution_time_in_minutes",
+        "value": 11
+      },
+      {
+        "id": "first_reply_time_in_minutes",
+        "value": 10
+      },
+      {
+        "id": "full_resolution_time_in_minutes",
+        "value": 50
+      }
+    ]
+  }
+]
